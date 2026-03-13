@@ -1,6 +1,6 @@
 # DoberLog
 Repositório para desenvolvimento da API do 1ª Semestre de Logística na Fatec SJC.
-Função	Nome	LinkedIn & GitHub
+| Função |	Nome |	LinkedIn & GitHub |
 Product Owner	Tiago Mesquita	Linkedin Badge GitHub Badge
 Scrum Master	Gabriel Carlos	Linkedin Badge GitHub Badge
 Team Member	Carolina Rodrigues	Linkedin Badge GitHub Badge
